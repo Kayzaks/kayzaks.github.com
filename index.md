@@ -5,7 +5,7 @@ tagline: Hex-Grids and Voxels
 ---
 {% include JB/setup %}
 
-Thoughts on Voxel Rendering, Raytracing and Hexagonal Grids... A combination that might result in a game.
+Thoughts on Voxel Rendering, Raytracing and Hexagonal Grids... A combination that might result in a game. Currently working on a Game called [Spellwrath](https://twitter.com/spellwrath)
 
 ## Blog Posts
 
